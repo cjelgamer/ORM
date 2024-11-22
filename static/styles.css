@@ -149,3 +149,17 @@ footer {
     border-top: none; /* Elimina cualquier borde superior */
     box-shadow: none; /* Elimina sombras */
 }
+
+
+/* Contenedor de la tabla con scroll */
+.table-container {
+    max-height: 400px; /* Altura máxima del contenedor */
+    overflow-y: auto; /* Habilitar scroll vertical */
+    margin-bottom: 20px; /* Espaciado inferior */
+    border: 1px solid rgba(63, 81, 181, 0.2); /* Borde para destacar el cuadro */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+.table-container .table {
+    margin-bottom: 0; /* Elimina el margen inferior de la tabla */
+}
