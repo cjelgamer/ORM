@@ -133,3 +133,19 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+
+
+footer {
+    position: fixed; /* Fija el footer al final de la página */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent; /* Fondo completamente transparente */
+    color: #9E9E9E; /* Texto gris claro */
+    font-size: 14px;
+    text-align: center;
+    padding: 10px 0;
+    border-top: none; /* Elimina cualquier borde superior */
+    box-shadow: none; /* Elimina sombras */
+}
