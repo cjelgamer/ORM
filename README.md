@@ -37,7 +37,7 @@ ORM/
 ## 🛠️ Configuración del Proyecto
 ### 1. Clonar el repositorio
 ```
-git clone <URL del repositorio>
+git clone <[URL del repositorio](https://github.com/cjelgamer/ORM.git)>
 ```
 ```
 cd ORM
